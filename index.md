@@ -1,4 +1,1 @@
-# H1 header
-## H2 header
-#### H3 header
-###### They can only allow 6 headers.
+![This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection.](https://octodex.github.com/images/yaktocat.png)
