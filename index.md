@@ -1,2 +1,3 @@
-``` javascript
-var myVar = "Hello World!"
+- [x] Turn on Github pages.
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
