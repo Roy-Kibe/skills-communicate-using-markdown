@@ -1,1 +1,2 @@
-![This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection.](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello World!"
